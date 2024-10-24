@@ -23,5 +23,3 @@ Before you begin, ensure you have the following installed:
 
 - Noel Kim
 - Solomon Lim
-
-We worked on the code together and implemented the features based on the Extended Lab 7
