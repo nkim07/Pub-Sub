@@ -1,4 +1,4 @@
-# PubChat Web-Application (Extended Lab 7)
+# PubChat Web-Application 
 
 PubChat is a real-time chat application where users can sign up, log in, and join chat rooms to communicate with each other.
 
