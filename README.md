@@ -19,6 +19,11 @@ Before you begin, ensure you have the following installed:
 - [npm](https://www.npmjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
+## Instructions
+
+npm start
+join "http://localhost:3000"
+
 ## Contribution
 
 - Noel Kim
