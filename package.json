@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Noel Kim, Solomon Lim",
+  "author": "Noel Kim",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.1.1",
