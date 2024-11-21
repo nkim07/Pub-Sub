@@ -24,7 +24,3 @@ Before you begin, ensure you have the following installed:
 npm start
 join "http://localhost:3000"
 
-## Contribution
-
-- Noel Kim
-- Solomon Lim
